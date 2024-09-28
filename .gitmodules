@@ -1,0 +1,12 @@
+[submodule "health-checks"]
+	path = health-checks
+	url = https://github.com/znolly/health-checks.git
+[submodule "rearrange"]
+	path = rearrange
+	url = https://github.com/znolly/rearrange.git
+[submodule "validations"]
+	path = validations
+	url = https://github.com/znolly/validations.git
+[submodule "test-repo"]
+	path = test-repo
+	url = https://github.com/znolly/test-repo.git
